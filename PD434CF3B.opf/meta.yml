@@ -168,3 +168,8 @@ source_metadata:
   - http://purl.bdrc.io/resource/MW1PD105890
 created_at: '2021-12-27T14:31:29.136857'
 last_modified_at: '2021-12-27T14:31:29.136866'
+statistics:
+  total_words: 56899
+  total_non_words: 6659
+quality:
+  non_words_ratio: 0.12
